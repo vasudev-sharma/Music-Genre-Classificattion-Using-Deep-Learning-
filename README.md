@@ -10,10 +10,6 @@ We fine-tuned their model with a small dataset (30 songs per genre) and test it 
 
 ## Slides and Report
 
-- [Slides](https://github.com/jsalbert/music-genre-classification/blob/master/Slides.pdf)
-
-- [Report](https://github.com/jsalbert/music-genre-classification/blob/master/Music_genre_recognition.pdf)
-
 ## Code 
 
 In this repository we provide the scripts to fine-tune the pre-trained model and a quick music genre prediction algorithm using our own weights. 
@@ -37,24 +33,6 @@ We have used Keras running over Theano to perform the experiments. Was done prev
 - Have [pip](https://pip.pypa.io/en/stable/installing/) 
 - Suggested install: [virtualenv](https://virtualenv.pypa.io/en/stable/)
 
-Python packages necessary specified in *requirements.txt* run:
-```
- # Create environment
- virtualenv env_song
- # Activate environment
- source env_song/bin/activate
- # Install dependencies
- pip install -r requirements.txt
- 
-```
-
-### Example Code
-
-Fill the folder music with songs. Fill the example list with the song names. 
-```
- python quick_test.py
- 
-```
 
 ## Results
 
