@@ -1,6 +1,5 @@
 # Music Genre Classification with Deep Learning
 
-[![DOI](https://zenodo.org/badge/74898449.svg)](https://zenodo.org/badge/latestdoi/74898449)
 
 ## Abstract
 
