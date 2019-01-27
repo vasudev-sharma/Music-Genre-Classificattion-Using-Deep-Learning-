@@ -7,7 +7,7 @@ In this project we adapt the model from [Choi et al.](https://github.com/keunwoo
 
 We fine-tuned their model with a small dataset (30 songs per genre) and test it on the GTZAN dataset providing a final accuracy of 80%. 
 
-## Slides and Report
+
 
 ## Code 
 
